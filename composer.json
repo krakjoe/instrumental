@@ -1,0 +1,12 @@
+{
+    "name": "krakjoe/instrumental",
+    "require": {
+        "php": "7.*",
+        "ext-componere": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Componere\\": "src/Componere/"
+        }
+    }
+}
